@@ -1,10 +1,9 @@
 #Project Name
-
-   Full Stack Todo Application using FastAPI and Next.js
+###Full Stack Todo Application using FastAPI and Next.js
 
 ##Description
 
-This is a full-stack application built with FastAPI for the backend API and Next.js for the frontend. It utilizes JWT (JSON Web Token) for secure user authentication and authorization. Users can log in and view their personal data, ensuring data privacy.
+   This is a full-stack application built with FastAPI for the backend API and Next.js for the frontend. It utilizes JWT (JSON Web Token) for secure user authentication and authorization. Users can log in and view their personal data, ensuring data privacy.
 
 ##Technologies
 
