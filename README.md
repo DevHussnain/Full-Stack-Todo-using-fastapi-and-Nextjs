@@ -1,4 +1,4 @@
-#Project Name
+# Project Name
 
 ###Full Stack Todo Application using FastAPI and Next.js
 
