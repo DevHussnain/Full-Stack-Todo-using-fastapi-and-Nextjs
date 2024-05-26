@@ -1,6 +1,6 @@
-Project Name
+**Project Name
 
-(Replace with your application's name)
+Full Stack Todo 
 
 Description
 
